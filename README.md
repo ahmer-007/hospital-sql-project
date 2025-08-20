@@ -36,7 +36,7 @@ The analysis covers multiple real-world hospital scenarios, including:
 1️⃣ Clone the repository:  
    ```bash
    git clone https://github.com/ahmer-007/hospital-sql-project.git
-   cd hospital-sql-project  ```
+   cd hospital-sql-project 
 
 2️⃣ Setup Database
 
@@ -49,6 +49,7 @@ Run the setup file inside PostgreSQL:
 Execute all queries for analysis:
 
 \i hospital_analysis.sql
+---
 
 
 📘 Report  
