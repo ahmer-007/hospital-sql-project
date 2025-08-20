@@ -36,12 +36,12 @@ The analysis covers multiple real-world hospital scenarios, including:
 1. Clone the repository:  
    ```bash
    git clone https://github.com/ahmer-007/hospital-sql-project.git
-   cd hospital-sql-project  ```
+   cd hospital-sql-project 
 
 2️⃣ Setup Database
 
 Run the setup file inside PostgreSQL:
-
+ ```
 \i hospital_setup.sql
 
 3️⃣ Run Analysis Queries
