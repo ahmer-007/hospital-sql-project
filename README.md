@@ -41,7 +41,7 @@ The analysis covers multiple real-world hospital scenarios, including:
 2️⃣ Setup Database
 
 Run the setup file inside PostgreSQL:
- ```
+
 \i hospital_setup.sql
 
 3️⃣ Run Analysis Queries
