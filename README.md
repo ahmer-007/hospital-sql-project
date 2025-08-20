@@ -1,4 +1,3 @@
-dekho tm kr k do jidr opebn hona or close  
 # 🏥 Hospital SQL Project  
 
 This project demonstrates **SQL queries and analysis** on a hospital dataset.  
@@ -34,7 +33,7 @@ The analysis covers multiple real-world hospital scenarios, including:
 
 ## 🚀 How to Use  
 
-1️⃣ Clone the repository:  
+1. Clone the repository:  
    ```bash
    git clone https://github.com/ahmer-007/hospital-sql-project.git
    cd hospital-sql-project  ```
@@ -70,4 +69,5 @@ Execute all queries for analysis:
 If you like this project, ⭐ star the repo and connect with me on:  
 - [LinkedIn](https://www.linkedin.com/in/ahmer-mehmood---oo7/)  
 - [GitHub](https://github.com/ahmer-007)  
+
 
